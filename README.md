@@ -1,1 +1,1 @@
-donate: TDBxnFnTjspLNU4BjQbHpVwxifGXbfGXEa (trx)
+TDBxnFnTjspLNU4BjQbHpVwxifGXbfGXEa
